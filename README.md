@@ -1,2 +1,2 @@
-# workshops
-Workshops and Knowledge Base
+# Single Board Computer Workshops
+[[Mini Workshops]]
